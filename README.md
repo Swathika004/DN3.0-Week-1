@@ -1,1 +1,1 @@
-# DN3.0-Week-1
+# DN3.0_Exercises
